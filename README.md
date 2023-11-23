@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **Portfolio**
 
-- 🌱 I’m currently learning **Web Dev, Java**
+- 🌱 I’m currently learning **Web Dev, JavaScript**
 
 - 💬 Ask me about **Anything**
 
