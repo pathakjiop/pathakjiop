@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **atharvpathakop@gmail.com**
 
-- ⚡ Fun fact **Coding has are 700+ languages**
+- ⚡ Fun fact **Coding has over 700+ languages**
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=pathakjiop&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
