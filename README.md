@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pathakjiop&label=Profile%20views&color=0e75b6&style=flat" alt="pathakjiop" /> </p>
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=pathakjiop&theme=highcontrast&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=pathakjiop&theme=highcontrast&no-frame=false&no-bg=true&margin-w=7)
 
 
 # 💫 About Me:
