@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Atharv Pathak</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pathakjiop&label=Profile%20views&color=0e75b6&style=flat" alt="pathakjiop" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=pathakjiop&label=Profile%20views&color=0e75b6&style=flattheme=highcontrast" alt="pathakjiop" /> </p>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=pathakjiop&theme=highcontrast&no-frame=false&no-bg=true&margin-w=7)
