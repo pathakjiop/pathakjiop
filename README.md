@@ -8,7 +8,7 @@
 
 
 # 💫 About Me:
-- 🔭 I’m currently working on **Portfolio**<br><br>
+- 🔭 I’m currently working on **Portfolio, Password Manager**<br><br>
 - 🌱 I’m currently learning **Web Dev, Java**<br><br>
 - 💬 Ask me about **Anything**<br><br>
 - 📫 How to reach me **atharvpathakop@gmail.com**<br><br>
