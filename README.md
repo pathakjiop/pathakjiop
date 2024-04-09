@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=00E0E5&vCenter=true&random=false&height=60&lines=%F0%9F%9A%80+Atharv+Pathak+)](https://git.io/typing-svg)
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=00E0E5&random=false&width=435&lines=%F0%9F%92%A1+Innovate.;%E2%9C%A8+Inspire.;%F0%9F%94%A5+Ignite." alt="Typing SVG" /></a>
+
 <p  align="right"> <img src="https://komarev.com/ghpvc/?username=pathakjiop&label=Profile%20views&color=0e75b6&style=flat" alt="pathakjiop" /> </p>
 
 # 🏆 GitHub Trophies
