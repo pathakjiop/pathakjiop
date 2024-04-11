@@ -237,16 +237,16 @@ welcome to my GitHub Page. I am Reza Shakeri and now Computer engineering studen
   <br/>
   <br/>
  
-   <a href="https://github.com/rzashakeri/telegram-bot-template">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rzashakeri&repo=telegram-bot-template&theme=default" />
+   <a href="https://github.com/pathak_ji_op/telegram-bot-template">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pathak_ji_op&repo=telegram-bot-template&theme=default" />
  </a>
 
 
    <br/>
   <br/>
  
-   <a href="https://github.com/rzashakeri/personal-site">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rzashakeri&repo=personal-site&theme=default" />
+   <a href="https://github.com/pathak_ji_op/personal-site">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pathak_ji_op&repo=personal-site&theme=default" />
  </a>
  
 </details>
@@ -257,7 +257,7 @@ welcome to my GitHub Page. I am Reza Shakeri and now Computer engineering studen
 
 ## GitHub Profile Trophy 🏆
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=rzashakeri&row=1&margin-w=40)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=pathak_ji_op&row=1&margin-w=40)](https://github.com/ryo-ma/github-profile-trophy)
 
 <img data-target="animated-image.replacedImage" alt="dino.gif" class="AnimatedImagePlayer-animatedImage" src="https://github.com/saadeghi/saadeghi/raw/master/dino.gif" style="display: block; opacity: 1;">
 
