@@ -6,9 +6,10 @@
 
 # Projects 🧪
 
-<a href="https://github.com/pathakjiop/Ayurvedic-Information-System">Ayurvedic Information System</a><br>
-<a href="https://github.com/pathakjiop/Healthy-Lifestyle">Healthy Lifestyle</a><br>
-<a href="https://github.com/pathakjiop/Cloth-Shop-Mangament-System">Cloth Shop Management System</a>
+1. [Ayurvedic Information System](https://github.com/pathakjiop/Ayurvedic-Information-System)
+2. [Healthy Lifestyle](https://github.com/pathakjiop/Healthy-Lifestyle)
+3. [Cloth Shop Management System](https://github.com/pathakjiop/Cloth-Shop-Mangament-System)
+
 
 
 # 🏆 GitHub Trophies
