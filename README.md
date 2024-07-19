@@ -4,7 +4,7 @@
 
 <p  align="right"> <img src="https://komarev.com/ghpvc/?username=pathakjiop&label=Profile%20views&color=0e75b6&style=flat" alt="pathakjiop" /> </p>
 
-#Projects 🧪
+# Projects 🧪
 
 <a href="https://github.com/pathakjiop/Ayurvedic-Information-System" >Ayurvedic Information System </a>
 <a href="https://github.com/pathakjiop/Healthy-Lifestyle" >Healthy-Lifestyle </a>
