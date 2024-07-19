@@ -6,9 +6,15 @@
 
 # Projects 🧪
 
-1. [Ayurvedic Information System](https://github.com/pathakjiop/Ayurvedic-Information-System)
-2. [Healthy Lifestyle](https://github.com/pathakjiop/Healthy-Lifestyle)
-3. [Cloth Shop Management System](https://github.com/pathakjiop/Cloth-Shop-Mangament-System)
+
+1. **[Ayurvedic Information System](https://github.com/pathakjiop/Ayurvedic-Information-System)**  
+   An information system for Ayurvedic medicine and practices.
+
+2. **[Healthy Lifestyle](https://github.com/pathakjiop/Healthy-Lifestyle)**  
+   A project promoting healthy living through various lifestyle choices.
+
+3. **[Cloth Shop Management System](https://github.com/pathakjiop/Cloth-Shop-Mangament-System)**  
+   A comprehensive system for managing cloth shop operations.
 
 
 
