@@ -13,7 +13,7 @@
 
 3. **[Cloth Shop Management System](https://github.com/pathakjiop/Cloth-Shop-Mangament-System)**  
 
-4. **[Notes App](https://github.com/pathakjiop/Notes-App)**  
+
 
 
 # 🏆 GitHub Trophies
