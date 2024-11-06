@@ -13,7 +13,6 @@
 - 🔭 I’m currently working on **Password Manager**<br><br>
 - 🌱 I’m currently learning **Web Dev**<br><br>
 - 💬 Ask me about **Anything**<br><br>
-- 📫 How to reach me **atharvpathakop@gmail.com**<br><br>
 - ⚡ Fun fact **Coding has over 700+ languages**<br>
 
 # 📊 GitHub Stats:
