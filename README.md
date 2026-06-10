@@ -124,15 +124,6 @@ available_for: "Collabs, CTFs, cool ideas"
 
 ---
 
-## `~/trophies`
-
-<div align="center">
-
-![](https://github-profile-trophy.vercel.app/?username=pathakjiop&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7)
-
-</div>
-
----
 
 ## `~/activity`
 
