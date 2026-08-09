@@ -9,48 +9,6 @@
 ╚═╝     ╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝ ╚════╝ ╚═╝ ╚═════╝ ╚═╝     
 ```
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2000&pause=800&color=00E5FF&center=true&vCenter=true&random=false&width=500&lines=%24+whoami+%E2%86%92+Atharv+Pathak;%24+uname+-a+%E2%86%92+Arch+Linux+btw+%F0%9F%90%A7;%24+cat+passion.txt+%E2%86%92+Build.+Break.+Repeat.;%24+sudo+rm+-rf+imposter_syndrome%2F" alt="Typing SVG" />
-</a>
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=pathakjiop&label=visitors&color=00e5ff&style=flat-square" alt="profile views"/>
-&nbsp;
-<img src="https://img.shields.io/github/followers/pathakjiop?label=followers&style=flat-square&color=00e5ff" />
-
-</div>
-
----
-
-## `~/about_me`
-
-```yaml
-# /etc/pathak.conf
-
-name: "Atharv Pathak"
-os: "Arch Linux  (btw)"
-shell: "zsh + starship"
-editor: "nvim (reformed VS Code user)"
-
-currently_building:
-  - "🔐 Password Manager — because LastPass had one job"
-
-currently_learning:
-  - "🌐 Full-Stack Web Dev — Spring Boot to Next.js, no layer left behind"
-
-interests:
-  - Security & Privacy
-  - Open Source Everything
-  - Breaking things (educationally)
-
-fun_fact: "There are 700+ programming languages and I'm procrastinating in all of them"
-
-available_for: "Collabs, CTFs, cool ideas"
-```
-
----
-
 ## `~/stack`
 
 <div align="center">
