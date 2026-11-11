@@ -248,7 +248,15 @@ def repos():
 
 # ---- 6. link pills -----------------------------------------------------------------------
 def pills():
-    for key, label in {"portfolio": "GitHub", "linkedin": "LinkedIn", "instagram": "Instagram", "x": "X", "hackerrank": "HackerRank"}.items():
+    labels = {
+        "portfolio": "Portfolio",
+        "github": "GitHub",
+        "linkedin": "LinkedIn",
+        "instagram": "Instagram",
+        "x": "X",
+        "hackerrank": "HackerRank"
+    }
+    for key, label in labels.items():
         if key not in cfg["links"]: continue
         w = int(tw(label, 14) + 56); h = 38
         b = (f'<g class="rise" style="{delay(4.8)}"><rect x=".5" y=".5" width="{w-1}" height="{h-1}" rx="19" fill="{CARD}" stroke="{INK}" stroke-opacity=".2"/>'
@@ -259,12 +267,14 @@ def pills():
 # ---- README ------------------------------------------------------------------------------
 def readme():
     L = cfg["links"]; tl = cfg["tiles"]
+    hero_href = cfg.get("hero_href") or L.get("portfolio") or f"https://github.com/{cfg['username']}"
     t = "\n".join(f'<a href="{x["href"]}"><img src="./cards/tile{i+1}.svg" width="32.5%" alt="{x["label"]}" /></a>' for i, x in enumerate(tl))
     rp = "\n".join(f'<a href="https://github.com/{cfg["username"]}/{n}"><img src="./cards/repo{i+1}.svg" width="49.5%" alt="{n}" /></a>'
                    for i, n in enumerate(cfg["featured_repos"]))
+    order = ("portfolio", "github", "linkedin", "instagram", "x", "hackerrank")
     pl = "\n".join(f'<a href="{L[k]}"><img src="./cards/link-{k}.svg" height="38" alt="{k}" /></a>'
-                   for k in ("portfolio", "linkedin", "instagram", "x", "hackerrank") if k in L)
-    (ROOT / "README.md").write_text(f"""<a href="https://github.com/{cfg['username']}"><img src="./cards/hero.svg" width="100%" alt="{cfg['first_name']} {cfg['last_name']}" /></a>
+                   for k in order if k in L)
+    (ROOT / "README.md").write_text(f"""<a href="{hero_href}"><img src="./cards/hero.svg" width="100%" alt="{cfg['first_name']} {cfg['last_name']}" /></a>
 
 <img src="./cards/heatmap.svg" width="100%" alt="Contribution graph" />
 
