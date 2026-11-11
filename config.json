@@ -1,0 +1,56 @@
+{
+  "username": "pathakjiop",
+  "first_name": "Atharv",
+  "last_name": "Pathak",
+  "tagline": "If you don't understand recursion, read this again.",
+  "role": "Full-stack developer \u00b7 Arch Linux tinkerer",
+  "portrait": "assets/portrait.jpg",
+  "links": {
+    "portfolio": "https://github.com/pathakjiop",
+    "linkedin": "https://www.linkedin.com/in/pathak-ji-op/",
+    "instagram": "https://www.instagram.com/pathak_ji_op/",
+    "x": "https://twitter.com/atharvpathak248",
+    "hackerrank": "https://hackerrank.com/atharvpathakop"
+  },
+  "tiles": [
+    {
+      "label": "BUILD",
+      "color": "#2563eb",
+      "metric": "repos",
+      "caption": "public repositories",
+      "href": "https://github.com/pathakjiop?tab=repositories"
+    },
+    {
+      "label": "SHIP",
+      "color": "#e5484d",
+      "metric": "contributions",
+      "caption": "contributions, last year",
+      "href": "https://github.com/pathakjiop"
+    },
+    {
+      "label": "CONNECT",
+      "color": "#f5b301",
+      "metric": "followers",
+      "caption": "developers following",
+      "href": "https://www.linkedin.com/in/pathak-ji-op/"
+    }
+  ],
+  "featured_repos": [
+    "Cloth-Shop-Mangament-System",
+    "Healthy-Lifestyle"
+  ],
+  "repo_fallback": {
+    "Cloth-Shop-Mangament-System": {
+      "description": "Cloth shop management system built with Python Tkinter and MySQL: inventory, billing and stock tracking.",
+      "language": "Python",
+      "stars": 2,
+      "forks": 0
+    },
+    "Healthy-Lifestyle": {
+      "description": "Wellness app that calculates personalised BMI and gives tailored advice from a health questionnaire.",
+      "language": "JavaScript",
+      "stars": 4,
+      "forks": 0
+    }
+  }
+}
