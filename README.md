@@ -1,6 +1,5 @@
 <a href="https://portfolio-alpha-two-tuw7xisbzg.vercel.app/"><img src="./cards/hero.svg" width="100%" alt="Atharv Pathak" /></a>
 
-<img src="./cards/heatmap.svg" width="100%" alt="Contribution graph" />
 
 <img src="./cards/activity.svg" width="100%" alt="Monthly contributions" />
 
