@@ -307,18 +307,28 @@ def hero():
     has = bool(lines)
     b = frame(W, H, fill="var(--paper)")
 
-    # Right side: ASCII Portrait
+    # Right side: large circular ASCII portrait
     if has:
+        portrait_x, portrait_y, portrait_r = 730, 180, 160
         wide = max(len(l) for l in lines)
-        fs = 5.0 if wide > 60 else 7.6
+        fs = min(7.0, 318 / max(1, tw("M", 1, MONO) * wide),
+                 306 / max(1, 1.04 * len(lines)))
         lh = fs * 1.04
         cw = tw("M", fs, MONO)
-        x0 = W - 44 - cw * wide
-        y0 = (H - lh * len(lines)) / 2 + lh
+        x0 = portrait_x - cw * wide / 2
+        y0 = portrait_y - lh * len(lines) / 2 + lh * .8
+        b += (f'<defs><clipPath id="portrait-clip">'
+              f'<circle cx="{portrait_x}" cy="{portrait_y}" r="{portrait_r}"/>'
+              f'</clipPath></defs>'
+              f'<circle cx="{portrait_x}" cy="{portrait_y}" r="{portrait_r}" '
+              f'fill="var(--card)"/>')
+        b += '<g clip-path="url(#portrait-clip)">'
         for i, ln in enumerate(lines):
-            b += (f'<text class="mono fade" x="{x0:.1f}" y="{y0+i*lh:.1f}" font-size="{fs}" '
+            b += (f'<text class="mono fade" x="{x0:.1f}" y="{y0+i*lh:.1f}" font-size="{fs:.2f}" '
                   f'fill="var(--ink)" fill-opacity=".80" xml:space="preserve" '
                   f'style="{delay(.2+i*.018)}">{esc(ln)}</text>')
+        b += (f'</g><circle cx="{portrait_x}" cy="{portrait_y}" r="{portrait_r}" '
+              f'fill="none" stroke="var(--border)" stroke-width="1.5"/>')
 
     # Left side: Typography & Identity
     nx = 48
