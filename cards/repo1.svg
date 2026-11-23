@@ -9,18 +9,7 @@
       --hl0: #e6dfd0; --hl1: #c7d7fb; --hl2: #8aaaf5; --hl3: #4c7cee; --hl4: #1d4ed8;
       --bar-idle: #d9d1c0;
       --sh-ink: #16130f;
-    } @media (prefers-color-scheme: dark) { :root {
-      --paper: #0d1117;
-      --card: #161b22;
-      --ink: #e6edf3;
-      --mute: #8b949e;
-      --line: rgba(230, 237, 243, 0.12);
-      --border: rgba(230, 237, 243, 0.15);
-      --track: #21262d;
-      --hl0: #161b22; --hl1: #0e4429; --hl2: #006d32; --hl3: #26a641; --hl4: #39d353;
-      --bar-idle: #262c36;
-      --sh-ink: #e6edf3;
-    } }
+    }
 text{font-family:'Geist',system-ui,-apple-system,sans-serif;fill:var(--ink)}
 .serif{font-family:'Instrument Serif',Georgia,serif}
 .mono{font-family:'Geist Mono',ui-monospace,SFMono-Regular,monospace}
